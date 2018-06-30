@@ -1,7 +1,7 @@
 # AstroVoids
 An Asteroids Clone in C++ using the Chili Framework
 
-This game was created for the 2018 Shenanijam Challenge: https://itch.io/jam/bscotch2018
+This game was created for the 2018 Shenanijam Challenge: https://itch.io/jam/bscotch2018 - see the submission here: https://s0lly.itch.io/astrovoids or YouTube video here: https://www.youtube.com/watch?v=XHo5Z-p_qWo
 
 As far as I'm aware, this only works on Windows, and the game is 64bit.
 
